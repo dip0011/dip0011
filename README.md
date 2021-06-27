@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dip0011
-- 👀 I’m interested in ... Web Design
+- 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ...ReactJS
 - 💞️ I’m looking to collaborate on ... Web Design
 - 📫 How to reach me ... dipdhameliya2001@gmail.com
