@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dip0011
-- 🌱 I’m currently Working ...MERN Stach with AWS
+- 🌱 I’m currently Working ...MERN Stack with AWS
 - 💞️ I’m looking to collaborate on ... Web Development
 - 📫 How to reach me ... dipdhameliya2001@gmail.com
 
